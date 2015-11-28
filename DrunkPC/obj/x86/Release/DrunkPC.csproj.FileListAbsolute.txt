@@ -1,0 +1,5 @@
+c:\documents and settings\dell d60\my documents\visual studio 2010\Projects\DrunkPC\DrunkPC\bin\Release\DrunkPC.exe
+c:\documents and settings\dell d60\my documents\visual studio 2010\Projects\DrunkPC\DrunkPC\bin\Release\DrunkPC.pdb
+c:\documents and settings\dell d60\my documents\visual studio 2010\Projects\DrunkPC\DrunkPC\obj\x86\Release\ResolveAssemblyReference.cache
+c:\documents and settings\dell d60\my documents\visual studio 2010\Projects\DrunkPC\DrunkPC\obj\x86\Release\DrunkPC.exe
+c:\documents and settings\dell d60\my documents\visual studio 2010\Projects\DrunkPC\DrunkPC\obj\x86\Release\DrunkPC.pdb
